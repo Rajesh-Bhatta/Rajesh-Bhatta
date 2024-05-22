@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rajesh Kumar Bhatta
+- 👋 Hi, I’m Rajesh Kumar Bhatta
 - 👀 I’m interested in Data Science, Machine Learning, and Artificial Intelligence.
 - 🌱 I’m currently learning and improving my skills in the data science domain.
 - 💞️ I’m looking to collaborate on data science projects, open-source contributions, and innovative AI solutions.
